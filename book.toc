@@ -30,7 +30,7 @@
 \contentsline {section}{\numberline {2.16}激动的原子}{29}
 \contentsline {section}{\numberline {2.17}玻尔理论的最初挫折}{30}
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}从玻尔理论到量子力学}{33}
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}原子、分子、晶体}{59}
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}原子核的内部}{81}
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}从原子核到基本粒子}{105}
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}从量子力学到何处去}{141}
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}原子、分子、晶体}{57}
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}原子核的内部}{79}
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}从原子核到基本粒子}{103}
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}从量子力学到何处去}{139}
