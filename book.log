@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  8 APR 2019 22:04
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  8 APR 2019 22:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1156,107 +1156,65 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 第二章
-[13] [14] [15] [16]
+[13] [14] [15] [16] [17]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [17]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
  [18]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+ [20] [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [21]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [22]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
  [24]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [25]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
+ [25] [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-./Contents/chap2.tex:344: Missing $ inserted.
+./Contents/chap2.tex:268: Missing $ inserted.
 <inserted text> 
                 $
-l.344 俨_
+l.268 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:344: Missing { inserted.
+./Contents/chap2.tex:268: Missing { inserted.
 <to be read again> 
                    _
-l.344 俨__
+l.268 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:344: Double subscript.
-l.344 俨__,_
+./Contents/chap2.tex:268: Double subscript.
+l.268 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:346: Missing $ inserted.
+./Contents/chap2.tex:270: Missing $ inserted.
 <inserted text> 
                 $
-l.346 
+l.270 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:346: Missing } inserted.
+./Contents/chap2.tex:270: Missing } inserted.
 <inserted text> 
                 }
-l.346 
+l.270 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1291,23 +1249,9 @@ Missing character: There is no 越 in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no 低 in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no （ in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no 当 in font [lmroman7-regular]:mapping=tex-text;!
+[28]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [28]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [29]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
+ [29] [30]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 ) [31]
 \openout2 = `Contents/chap3.aux'.
@@ -3003,7 +2947,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Here is how much of TeX's memory you used:
  15741 strings out of 492970
  432976 string characters out of 6133939
- 457880 words of memory out of 5000000
+ 467880 words of memory out of 5000000
  19607 multiletter control sequences out of 15000+600000
  535138 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
