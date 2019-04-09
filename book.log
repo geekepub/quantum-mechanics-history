@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  9 APR 2019 20:43
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  9 APR 2019 20:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1156,20 +1156,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 第二章
-[13] [14] [15] [16] [17]
+[13] [14] [15] [16] [17] [18]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [18]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [20] [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
+ [20] [21] [22] [23]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [24]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1180,41 +1174,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-./Contents/chap2.tex:275: Missing $ inserted.
+./Contents/chap2.tex:285: Missing $ inserted.
 <inserted text> 
                 $
-l.275 俨_
+l.285 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:275: Missing { inserted.
+./Contents/chap2.tex:285: Missing { inserted.
 <to be read again> 
                    _
-l.275 俨__
+l.285 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:275: Double subscript.
-l.275 俨__,_
+./Contents/chap2.tex:285: Double subscript.
+l.285 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:277: Missing $ inserted.
+./Contents/chap2.tex:287: Missing $ inserted.
 <inserted text> 
                 $
-l.277 
+l.287 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:277: Missing } inserted.
+./Contents/chap2.tex:287: Missing } inserted.
 <inserted text> 
                 }
-l.277 
+l.287 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1253,17 +1247,20 @@ Missing character: There is no 当 in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [29] [30]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [31]
+
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+ [31]) [32]
 \openout2 = `Contents/chap3.aux'.
 
- (./Contents/chap3.tex [32
+ (./Contents/chap3.tex
+第三章
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+[33
 
 
 
 ]
-第三章
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[33]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2733,7 +2730,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Here is how much of TeX's memory you used:
  15715 strings out of 492970
  431170 string characters out of 6133939
- 467880 words of memory out of 5000000
+ 470880 words of memory out of 5000000
  19581 multiletter control sequences out of 15000+600000
  535138 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
