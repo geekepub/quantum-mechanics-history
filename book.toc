@@ -24,7 +24,7 @@
 \contentsline {section}{\numberline {2.10}光子}{22}
 \contentsline {section}{\numberline {2.11}光是什么}{23}
 \contentsline {section}{\numberline {2.12}原子的名片}{24}
-\contentsline {section}{\numberline {2.13}为什么物体会发光}{24}
+\contentsline {section}{\numberline {2.13}为什么物体会发光}{25}
 \contentsline {section}{\numberline {2.14}玻尔写下的原子传记}{26}
 \contentsline {section}{\numberline {2.15}能量从何处来}{28}
 \contentsline {section}{\numberline {2.16}激动的原子}{29}
