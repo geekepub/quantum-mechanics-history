@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  8 APR 2019 22:19
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  9 APR 2019 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1180,41 +1180,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-./Contents/chap2.tex:268: Missing $ inserted.
+./Contents/chap2.tex:275: Missing $ inserted.
 <inserted text> 
                 $
-l.268 俨_
+l.275 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:268: Missing { inserted.
+./Contents/chap2.tex:275: Missing { inserted.
 <to be read again> 
                    _
-l.268 俨__
+l.275 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:268: Double subscript.
-l.268 俨__,_
+./Contents/chap2.tex:275: Double subscript.
+l.275 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:270: Missing $ inserted.
+./Contents/chap2.tex:277: Missing $ inserted.
 <inserted text> 
                 $
-l.270 
+l.277 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:270: Missing } inserted.
+./Contents/chap2.tex:277: Missing } inserted.
 <inserted text> 
                 }
-l.270 
+l.277 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
