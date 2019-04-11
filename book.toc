@@ -25,9 +25,9 @@
 \contentsline {section}{\numberline {2.11}光是什么}{23}
 \contentsline {section}{\numberline {2.12}原子的名片}{24}
 \contentsline {section}{\numberline {2.13}为什么物体会发光}{25}
-\contentsline {section}{\numberline {2.14}玻尔写下的原子传记}{26}
-\contentsline {section}{\numberline {2.15}能量从何处来}{28}
-\contentsline {section}{\numberline {2.16}激动的原子}{29}
+\contentsline {section}{\numberline {2.14}玻尔写下的原子传记}{27}
+\contentsline {section}{\numberline {2.15}能量从何处来}{29}
+\contentsline {section}{\numberline {2.16}激动的原子}{30}
 \contentsline {section}{\numberline {2.17}玻尔理论的最初挫折}{31}
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}从玻尔理论到量子力学}{33}
 \contentsline {chapter}{\numberline {第四章\hspace {.3em}}原子、分子、晶体}{57}
