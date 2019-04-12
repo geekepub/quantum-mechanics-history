@@ -1007,7 +1007,8 @@ File: ctex-fontset-mac.def 2018/01/28 v2.4.12 Mac OS X fonts definition (CTEX)
 .................................................
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
-) (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux))
+)
+No file book.aux.
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1026,7 +1027,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
- ABD: EverySelectfont initializing macros
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 9.
 .................................................
 . fontspec info: "setup-math"
@@ -1123,66 +1124,24 @@ LaTeX Font Info:    Font shape `TU/STSong(0)/m/sl' in size <10.53937> not availa
 ] [6
 
 
-] (./book.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
- [7] [8]
-./book.toc:55: Missing $ inserted.
-<inserted text> 
-                $
-l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./book.toc:55: Missing { inserted.
-<to be read again> 
-                   _
-l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
-                                                  
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-./book.toc:55: Missing $ inserted.
-<inserted text> 
-                $
-l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no 译 in font [lmroman7-regular]:mapping=tex-text;!
-Missing character: There is no 者 in font [lmroman7-regular]:mapping=tex-text;!
-Missing character: There is no 注 in font [lmroman7-regular]:mapping=tex-text;!
-)
+]
+No file book.toc.
 \tf@toc=\write3
 \openout3 = `book.toc'.
 
-
-/Users/mj/Documents/quantum-mechanics-history/book.tex:19: Missing } inserted.
-<inserted text> 
-                }
-l.19 \tableofcontents
-                     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-[9] [10
+[7] [8
 
 ]
 \openout2 = `Contents/chap1.aux'.
 
  (./Contents/chap1.tex
 第一章
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7.52812> on input line 7.
 [1
@@ -2662,4 +2621,33 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Overfull \hbox (43.049pt too wide) in paragraph at lines 238--243
-[]\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要
+[]\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要 量 子 物 理 学 家 简 介  |（按 英 文 字 母 顺 序）|  玻 尔 \TU/lmr/m/n/10.53937 (Bohr,Niels)1885-
+ []
+
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+[150]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [151]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+) [152]
+\openout2 = `Contents/appendix.aux'.
+
+ (./Contents/appendix.tex) (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux)) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 369 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 15782 strings out of 492970
+ 435006 string characters out of 6133939
+ 467880 words of memory out of 5000000
+ 19643 multiletter control sequences out of 15000+600000
+ 536971 words of font info for 69 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 53i,8n,67p,10452b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on book.pdf (162 pages).
