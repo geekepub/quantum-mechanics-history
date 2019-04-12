@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  12 APR 2019 21:56
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  12 APR 2019 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2043,7 +2043,6 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [118]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2111,18 +2110,18 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [130]
-./Contents/chap6.tex:623: Missing $ inserted.
+./Contents/chap6.tex:619: Missing $ inserted.
 <inserted text> 
                 $
-l.623 ...'^^I2,182.8^^I。^^I1/2^^I2.5)<10一10^^I/1o_
+l.619 ...'^^I2,182.8^^I。^^I1/2^^I2.5)<10一10^^I/1o_
                                                   ..p十，了或n+n:o
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap6.tex:639: Missing $ inserted.
+./Contents/chap6.tex:635: Missing $ inserted.
 <inserted text> 
                 $
-l.639 
+l.635 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2455,17 +2454,17 @@ Missing character: There is no 冗 in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no 介 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (77.30487pt too wide) in paragraph at lines 619--639
+Overfull \hbox (77.30487pt too wide) in paragraph at lines 615--635
 \OML/cmm/m/it/10.53937 j[]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 182\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 8\OML/cmm/m/it/10.53937 :[]\OT1/cmr/m/n/10.53937 1/22\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 5\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/10.53937 10 \OMS/cmsy/m/n/10.53937 ^^@[] []\OML/cmm/m/it/10.53937 AD\OMS/cmsy/m/n/10.53937 ^^@ \OML/cmm/m/it/10.53937 > \OMS/cmsy/m/n/10.53937 ^^@\OML/cmm/m/it/10.53937 p \OT1/cmr/m/n/10.53937 + [][][]\OML/cmm/m/it/10.53937 n \OT1/cmr/m/n/10.53937 + 7\OML/cmm/m/it/10.53937 foI\OT1/cmr/m/n/10.53937 ; +\OML/cmm/m/it/10.53937 z; \OT1/cmr/m/n/10.53937 ; []2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 327\OML/cmm/m/it/10.53937 :i \OT1/cmr/m/n/10.53937 + \OML/cmm/m/it/10.53937 I\OT1/cmr/m/n/10.53937 1/28\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 1\OML/cmm/m/it/10.53937 X\OT1/cmr/m/n/10.53937 10[]\OML/cmm/m/it/10.53937 ll[][][][][][][][][][]l\OT1/cmr/m/n/10.53937 ; +\OML/cmm/m/it/10.53937 E \OT1/cmr/m/n/10.53937 +
  []
 
 
-Overfull \hbox (28.42654pt too wide) in paragraph at lines 619--639
+Overfull \hbox (28.42654pt too wide) in paragraph at lines 615--635
 \OT1/cmr/m/n/10.53937 11+ :: \OML/cmm/m/it/10.53937 c \OMS/cmsy/m/n/10.53937 ^^@ [][]\OML/cmm/m/it/10.53937 E \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 340\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 6 + \OML/cmm/m/it/10.53937 l\OT1/cmr/m/n/10.53937 1/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 6)(10[][]\OML/cmm/m/it/10.53937 i\OT1/cmr/m/n/10.53937 ; \OMS/cmsy/m/n/10.53937 ^^@ ^^@ \OML/cmm/m/it/10.53937 ii[][][]x[]o[][][][]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 565[]1/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 5)(10[]\OML/cmm/m/it/10.53937 IO[][][]; lo\OT1/cmr/m/n/10.53937 + ::
  []
 
 
-Overfull \hbox (562.76118pt too wide) in paragraph at lines 619--639
+Overfull \hbox (562.76118pt too wide) in paragraph at lines 615--635
 [][][]\OML/cmm/m/it/10.53937 x \OMS/cmsy/m/n/10.53937 ^^@ [][][]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 580\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 2 + 11/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 2)(10 \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 10[][][]\OML/cmm/m/it/10.53937 J[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]C$ 
  []
 
@@ -2476,7 +2475,6 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [132]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -2494,40 +2492,37 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [135]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
  [136]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [138]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [139]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [137]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
+ [138]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [140]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 )
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [141] [142]
 \openout2 = `Contents/chap7.aux'.
