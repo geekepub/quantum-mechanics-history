@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  12 APR 2019 21:44
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  12 APR 2019 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1007,8 +1007,7 @@ File: ctex-fontset-mac.def 2018/01/28 v2.4.12 Mac OS X fonts definition (CTEX)
 .................................................
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
-)
-No file book.aux.
+) (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux))
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1027,7 +1026,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 9.
 .................................................
 . fontspec info: "setup-math"
@@ -1124,24 +1123,66 @@ LaTeX Font Info:    Font shape `TU/STSong(0)/m/sl' in size <10.53937> not availa
 ] [6
 
 
-]
-No file book.toc.
+] (./book.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+ [7] [8]
+./book.toc:55: Missing $ inserted.
+<inserted text> 
+                $
+l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./book.toc:55: Missing { inserted.
+<to be read again> 
+                   _
+l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./book.toc:55: Missing $ inserted.
+<inserted text> 
+                $
+l.55 ... {section}{\numberline {3.23}7。__:译者注}{58}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 译 in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no 者 in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no 注 in font [lmroman7-regular]:mapping=tex-text;!
+)
 \tf@toc=\write3
 \openout3 = `book.toc'.
 
-[7] [8
+
+/Users/mj/Documents/quantum-mechanics-history/book.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \tableofcontents
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[9] [10
 
 ]
 \openout2 = `Contents/chap1.aux'.
 
  (./Contents/chap1.tex
 第一章
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7.52812> on input line 7.
 [1
@@ -1752,33 +1793,25 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 ]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [60]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [61]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 1231) has occurred while \output is active []
-
  [62]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 2512) has occurred while \output is active []
 
  [63]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [64]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [65]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 ./Contents/chap4.tex:174: You can't use `macro parameter character #' in horizontal mode.
@@ -1791,52 +1824,28 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [65]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [66]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [67]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [68]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [69]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-./Contents/chap4.tex:274: You can't use `macro parameter character #' in horizontal mode.
-<recently read> ##
-                  
-l.274 #
-       .卢孕0i=
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [70]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [71]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1847,71 +1856,51 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [72]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [73]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [74]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [75]
+ [74]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [76]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
- [77]
+ [75]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [78]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [79]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [80]
-\openout2 = `Contents/chap5.aux'.
-
- (./Contents/chap5.tex
-第五章
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[81
-
-
-
-]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [82]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [83]
+ [76]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [78]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [79]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+) [80] [81]
+\openout2 = `Contents/chap5.aux'.
+
+ (./Contents/chap5.tex [82
+
+
+
+]
+第五章
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+[83]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [84]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1922,23 +1911,23 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
  [85]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [86]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [87]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [88]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1959,7 +1948,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [92]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1971,13 +1960,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [95]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1989,9 +1978,10 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [97]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
@@ -2000,10 +1990,9 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
@@ -2011,11 +2000,23 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [100]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [101]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [102]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
- [101]
+ [103]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
@@ -2024,40 +2025,40 @@ Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102]
+ [104]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [103]
+) [105]
 \openout2 = `Contents/chap6.aux'.
 
- (./Contents/chap6.tex [104
+ (./Contents/chap6.tex [106
 
 
 
 ]
 第六章
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[105]
+[107]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [106]
+ [108]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [107]
+ [109]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
- [108]
+ [110]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [109]
+ [111]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -2085,21 +2086,7 @@ Missing character: There is no 就 in font [lmroman10-regular]:mapping=tex-text;
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [110]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [111]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
  [112]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -2108,14 +2095,16 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [113]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [114]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [115]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2126,7 +2115,6 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [116]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2134,41 +2122,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [118]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [119]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [120]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [121]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [122]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [123]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [123]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [124]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2179,21 +2168,33 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [126]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [127]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [128]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
 ./Contents/chap6.tex:623: Missing $ inserted.
 <inserted text> 
                 $
@@ -2553,72 +2554,72 @@ Overfull \hbox (562.76118pt too wide) in paragraph at lines 619--639
  []
 
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[129]
+[131]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [130]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [131]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [132]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [133]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
  [134]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [135]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [136]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [136]
+ [137]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [137]
+ [139]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
- [138]
+ [140]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 )
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [139] [140]
+ [141] [142]
 \openout2 = `Contents/chap7.aux'.
 
  (./Contents/chap7.tex
 第七章
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[141
+[143
 
 
 
@@ -2628,20 +2629,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [142]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [143]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
  [144]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -2651,43 +2639,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [146]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [147]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (43.049pt too wide) in paragraph at lines 238--243
-[]\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要 量 子 物 理 学 家 简 介  |（按 英 文 字 母 顺 序）|  玻 尔 \TU/lmr/m/n/10.53937 (Bohr,Niels)1885-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[148]
+ [148]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
  [149]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [150]
-\openout2 = `Contents/appendix.aux'.
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
- (./Contents/appendix.tex) (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux)) )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 369 ({)
-### bottom level 
-Here is how much of TeX's memory you used:
- 15700 strings out of 492970
- 429414 string characters out of 6133939
- 467880 words of memory out of 5000000
- 19561 multiletter control sequences out of 15000+600000
- 536971 words of font info for 69 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 53i,8n,67p,10452b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on book.pdf (160 pages).
+Overfull \hbox (43.049pt too wide) in paragraph at lines 238--243
+[]\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要

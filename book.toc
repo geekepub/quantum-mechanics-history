@@ -54,6 +54,24 @@
 \contentsline {section}{\numberline {3.22}波和量子结合起来了}{57}
 \contentsline {section}{\numberline {3.23}7。__:译者注}{58}
 \contentsline {chapter}{\numberline {第四章\hspace {.3em}}原子、分子、晶体}{59}
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}原子核的内部}{81}
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}从原子核到基本粒子}{105}
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}从量子力学到何处去}{141}
+\contentsline {section}{\numberline {4.1}云代替了轨道}{59}
+\contentsline {section}{\numberline {4.2}4;壳层序数与该壳层所容纳的电千波数一致。一一译者注}{60}
+\contentsline {section}{\numberline {4.3}单调寓于多样性之中}{61}
+\contentsline {section}{\numberline {4.4}另一个奇迹——但尚未得到解释}{62}
+\contentsline {section}{\numberline {4.5}7。—一译者注}{62}
+\contentsline {section}{\numberline {4.6}原子建筑师在工作}{63}
+\contentsline {section}{\numberline {4.7}1、57。一一译者注}{63}
+\contentsline {section}{\numberline {4.8}发了疯的原子}{64}
+\contentsline {section}{\numberline {4.9}原子及化学}{65}
+\contentsline {section}{\numberline {4.10}光谱的诞生}{67}
+\contentsline {section}{\numberline {4.11}宽线和双线}{69}
+\contentsline {section}{\numberline {4.12}9中的公式，我们立即得出光子能皇的不准量：}{69}
+\contentsline {section}{\numberline {4.13}原子结婚了}{70}
+\contentsline {section}{\numberline {4.14}晶体的骨架和多层结构}{73}
+\contentsline {section}{\numberline {4.15}电是怎样在金属内流动的}{76}
+\contentsline {section}{\numberline {4.16}奇妙的半导体}{78}
+\contentsline {section}{\numberline {4.17}有用的“灰尘”}{79}
+\contentsline {section}{\numberline {4.18}叉慷慨又贪婪的原子}{79}
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}原子核的内部}{83}
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}从原子核到基本粒子}{107}
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}从量子力学到何处去}{143}
