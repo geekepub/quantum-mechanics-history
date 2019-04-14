@@ -92,4 +92,8 @@
 \contentsline {section}{\numberline {5.17}电子诞生于核内}{103}
 \contentsline {section}{\numberline {5.18}饕饕的核}{104}
 \contentsline {chapter}{\numberline {第六章\hspace {.3em}}从原子核到基本粒子}{107}
+\contentsline {section}{\numberline {6.1}一个新世界的发现}{107}
 \contentsline {chapter}{\numberline {第七章\hspace {.3em}}从量子力学到何处去}{143}
+\contentsline {section}{\numberline {7.1}难以定义的定义}{143}
+\contentsline {section}{\numberline {7.2}量子力学小传}{146}
+\contentsline {chapter}{附录}{151}

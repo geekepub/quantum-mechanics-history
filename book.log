@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 21:49
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1948,19 +1948,14 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 
  (./Contents/chap6.tex
 第六章
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 [107
 
 
 
 ]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [108]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
@@ -1968,28 +1963,26 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [109]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 1231) has occurred while \output is active []
-
  [110]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 2134) has occurred while \output is active []
+
  [111]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-./Contents/chap6.tex:149: Missing $ inserted.
+./Contents/chap6.tex:125: Missing $ inserted.
 <inserted text> 
                 $
-l.149 ...间位置上停留下来。这些中回价詈的能量，是磁体的两个极端位置能讯差数的一个简1'(_
-                                                  1分数。这就
+l.125 ...间位置上停留下来。这些中回价詈的能量，是磁体的两个极端位置能讯差数的一个简1'(_
+                                                  1分数。这就意味着：它们是一些十分确定的能晕，能鼠间...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap6.tex:150: Missing $ inserted.
+./Contents/chap6.tex:129: Missing $ inserted.
 <inserted text> 
                 $
-l.150 
+l.129 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1999,37 +1992,203 @@ Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 就 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 意 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 味 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 着 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ： in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 它 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 些 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 十 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 确 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 晕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 鼠 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 距 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 星 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 化 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 特 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 原 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 电 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 磁 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 体 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 磁 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 场 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 内 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 确 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 取 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 向 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 现 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 象 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 物 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 评 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 家 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 叫 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 作 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 空 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 化 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 且 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 余 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 就 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 好 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 理 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 条 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 光 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谱 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 线 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 裂 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 伴 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 线 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ｀ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 恰 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 好 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 就 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 电 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 磁 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 体 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 具 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 取 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 向 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 伴 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 线 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 波 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 长 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 差 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 别 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 计 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 算 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 也 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 同 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 样 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 极 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 好 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 地 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 验 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 结 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 相 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 吻 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 合 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 突 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 然 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 出 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 现 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 狄 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 拉 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 克 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 程 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 自 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 旋 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 暂 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 且 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 说 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 到 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 里 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 程 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 还 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 两 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (188.21394pt too wide) in paragraph at lines 117--129
+\TU/lmr/m/n/10.53937 1’($[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$ 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [113]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [114]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [115]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [116]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2044,19 +2203,19 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [119]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [120]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [121]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2068,11 +2227,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [123]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
  [124]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2083,13 +2245,13 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [126]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [127]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -2101,27 +2263,23 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [129]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [130]
-./Contents/chap6.tex:619: Missing $ inserted.
+./Contents/chap6.tex:545: Missing $ inserted.
 <inserted text> 
                 $
-l.619 ...'^^I2,182.8^^I。^^I1/2^^I2.5)<10一10^^I/1o_
+l.545 ...'^^I2,182.8^^I。^^I1/2^^I2.5)<10一10^^I/1o_
                                                   ..p十，了或n+n:o
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap6.tex:635: Missing $ inserted.
+./Contents/chap6.tex:561: Missing $ inserted.
 <inserted text> 
                 $
-l.635 
+l.561 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2454,43 +2612,43 @@ Missing character: There is no 冗 in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no 介 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (77.30487pt too wide) in paragraph at lines 615--635
+Overfull \hbox (77.30487pt too wide) in paragraph at lines 541--561
 \OML/cmm/m/it/10.53937 j[]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 182\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 8\OML/cmm/m/it/10.53937 :[]\OT1/cmr/m/n/10.53937 1/22\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 5\OML/cmm/m/it/10.53937 x\OT1/cmr/m/n/10.53937 10 \OMS/cmsy/m/n/10.53937 ^^@[] []\OML/cmm/m/it/10.53937 AD\OMS/cmsy/m/n/10.53937 ^^@ \OML/cmm/m/it/10.53937 > \OMS/cmsy/m/n/10.53937 ^^@\OML/cmm/m/it/10.53937 p \OT1/cmr/m/n/10.53937 + [][][]\OML/cmm/m/it/10.53937 n \OT1/cmr/m/n/10.53937 + 7\OML/cmm/m/it/10.53937 foI\OT1/cmr/m/n/10.53937 ; +\OML/cmm/m/it/10.53937 z; \OT1/cmr/m/n/10.53937 ; []2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 327\OML/cmm/m/it/10.53937 :i \OT1/cmr/m/n/10.53937 + \OML/cmm/m/it/10.53937 I\OT1/cmr/m/n/10.53937 1/28\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 1\OML/cmm/m/it/10.53937 X\OT1/cmr/m/n/10.53937 10[]\OML/cmm/m/it/10.53937 ll[][][][][][][][][][]l\OT1/cmr/m/n/10.53937 ; +\OML/cmm/m/it/10.53937 E \OT1/cmr/m/n/10.53937 +
  []
 
 
-Overfull \hbox (28.42654pt too wide) in paragraph at lines 615--635
+Overfull \hbox (28.42654pt too wide) in paragraph at lines 541--561
 \OT1/cmr/m/n/10.53937 11+ :: \OML/cmm/m/it/10.53937 c \OMS/cmsy/m/n/10.53937 ^^@ [][]\OML/cmm/m/it/10.53937 E \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 340\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 6 + \OML/cmm/m/it/10.53937 l\OT1/cmr/m/n/10.53937 1/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 6)(10[][]\OML/cmm/m/it/10.53937 i\OT1/cmr/m/n/10.53937 ; \OMS/cmsy/m/n/10.53937 ^^@ ^^@ \OML/cmm/m/it/10.53937 ii[][][]x[]o[][][][]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 565[]1/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 5)(10[]\OML/cmm/m/it/10.53937 IO[][][]; lo\OT1/cmr/m/n/10.53937 + ::
  []
 
 
-Overfull \hbox (562.76118pt too wide) in paragraph at lines 615--635
+Overfull \hbox (562.76118pt too wide) in paragraph at lines 541--561
 [][][]\OML/cmm/m/it/10.53937 x \OMS/cmsy/m/n/10.53937 ^^@ [][][]\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 580\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 2 + 11/21\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.53937 2)(10 \OMS/cmsy/m/n/10.53937 ^^@ \OT1/cmr/m/n/10.53937 10[][][]\OML/cmm/m/it/10.53937 J[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]C$ 
  []
 
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [130]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[131]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [132]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [133]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [134]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [135]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
@@ -2498,95 +2656,73 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [136]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 2134) has occurred while \output is active []
+
+ [137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
- [137]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [138]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [139]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [140]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [141] [142]
+ [140] [141]
 \openout2 = `Contents/chap7.aux'.
 
- (./Contents/chap7.tex
-第七章
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[143
+ (./Contents/chap7.tex [142
 
 
 
 ]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+第七章
+[143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [144]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [145]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 4168) has occurred while \output is active []
-
- [146]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+ [145] [146]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+ [147])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148]
+ [148] [149] [150
+
+
+]
+\openout2 = `Contents/appendix.aux'.
+
+ (./Contents/appendix.tex
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [149]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [151
+
+
+]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (43.049pt too wide) in paragraph at lines 230--235
+Overfull \hbox (43.049pt too wide) in paragraph at lines 107--112
 []\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要 量 子 物 理 学 家 简 介  |（按 英 文 字 母 顺 序）|  玻 尔 \TU/lmr/m/n/10.53937 (Bohr,Niels)1885-
  []
 
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-[150]
+[152]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
- [151]
+ [153]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [152]
-\openout2 = `Contents/appendix.aux'.
-
- (./Contents/appendix.tex) (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux)) )
+) [154] (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux)) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 359 ({)
@@ -2594,10 +2730,10 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Here is how much of TeX's memory you used:
  15802 strings out of 492970
  436360 string characters out of 6133939
- 467880 words of memory out of 5000000
+ 474880 words of memory out of 5000000
  19663 multiletter control sequences out of 15000+600000
  536971 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  53i,8n,67p,10452b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (162 pages).
+Output written on book.pdf (164 pages).
