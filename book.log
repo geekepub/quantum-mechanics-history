@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 21:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1859,91 +1859,47 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [84]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [86]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [87]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [88]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+ [85] [86] [87] [88] [89] [90]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [90]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [91]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [92]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [94]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [95]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [96]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [97]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [98]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [99]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
+ [99] [100] [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [101]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [102]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [103]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [102] [103]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [104]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [106]
+ [105]) [106]
 \openout2 = `Contents/chap6.aux'.
 
  (./Contents/chap6.tex
@@ -2725,13 +2681,13 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 ) [154] (./book.aux (./Contents/copyright.aux) (./Contents/trans.aux) (./Contents/intro.aux) (./Contents/chap1.aux) (./Contents/chap2.aux) (./Contents/chap3.aux) (./Contents/chap4.aux) (./Contents/chap5.aux) (./Contents/chap6.aux) (./Contents/chap7.aux) (./Contents/appendix.aux)) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 359 ({)
+### simple group (level 1) entered at line 288 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15802 strings out of 492970
- 436360 string characters out of 6133939
+ 15782 strings out of 492970
+ 435006 string characters out of 6133939
  474880 words of memory out of 5000000
- 19663 multiletter control sequences out of 15000+600000
+ 19643 multiletter control sequences out of 15000+600000
  536971 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  53i,8n,67p,10452b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
