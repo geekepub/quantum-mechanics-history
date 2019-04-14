@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  12 APR 2019 21:57
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2548,12 +2548,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [145]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [146]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -2572,7 +2570,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (43.049pt too wide) in paragraph at lines 238--243
+Overfull \hbox (43.049pt too wide) in paragraph at lines 230--235
 []\TU/lmr/m/n/10.53937 II \TU/STSong(0)/m/n/10.53937 本 书 中 出 现 的 主 要 量 子 物 理 学 家 简 介  |（按 英 文 字 母 顺 序）|  玻 尔 \TU/lmr/m/n/10.53937 (Bohr,Niels)1885-
  []
 
@@ -2581,7 +2579,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 4168) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [151]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
