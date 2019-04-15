@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  14 APR 2019 22:03
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  15 APR 2019 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1164,41 +1164,41 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26] [27]
-./Contents/chap2.tex:310: Missing $ inserted.
+./Contents/chap2.tex:318: Missing $ inserted.
 <inserted text> 
                 $
-l.310 俨_
+l.318 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:310: Missing { inserted.
+./Contents/chap2.tex:318: Missing { inserted.
 <to be read again> 
                    _
-l.310 俨__
+l.318 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:310: Double subscript.
-l.310 俨__,_
+./Contents/chap2.tex:318: Double subscript.
+l.318 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:312: Missing $ inserted.
+./Contents/chap2.tex:320: Missing $ inserted.
 <inserted text> 
                 $
-l.312 
+l.320 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:312: Missing } inserted.
+./Contents/chap2.tex:320: Missing } inserted.
 <inserted text> 
                 }
-l.312 
+l.320 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2684,10 +2684,10 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 ### simple group (level 1) entered at line 288 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15782 strings out of 492970
- 435006 string characters out of 6133939
+ 15769 strings out of 492970
+ 434103 string characters out of 6133939
  474880 words of memory out of 5000000
- 19643 multiletter control sequences out of 15000+600000
+ 19630 multiletter control sequences out of 15000+600000
  536971 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  53i,8n,67p,10452b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
