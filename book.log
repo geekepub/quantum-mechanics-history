@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  15 APR 2019 22:15
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  15 APR 2019 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1158,46 +1158,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 第二章
 [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [26] [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-./Contents/chap2.tex:329: Missing $ inserted.
+./Contents/chap2.tex:322: Missing $ inserted.
 <inserted text> 
                 $
-l.329 俨_
+l.322 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:329: Missing { inserted.
+./Contents/chap2.tex:322: Missing { inserted.
 <to be read again> 
                    _
-l.329 俨__
+l.322 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:329: Double subscript.
-l.329 俨__,_
+./Contents/chap2.tex:322: Double subscript.
+l.322 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:331: Missing $ inserted.
+./Contents/chap2.tex:324: Missing $ inserted.
 <inserted text> 
                 $
-l.331 
+l.324 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:331: Missing } inserted.
+./Contents/chap2.tex:324: Missing } inserted.
 <inserted text> 
                 }
-l.331 
+l.324 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1235,7 +1234,7 @@ Missing character: There is no 当 in font [lmroman7-regular]:mapping=tex-text;!
 [29]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [30] [31]
-Underfull \vbox (badness 6332) has occurred while \output is active []
+Underfull \vbox (badness 6300) has occurred while \output is active []
 
  [32]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
