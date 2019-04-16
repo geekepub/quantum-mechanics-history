@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  15 APR 2019 22:16
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  16 APR 2019 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1162,41 +1162,41 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-./Contents/chap2.tex:322: Missing $ inserted.
+./Contents/chap2.tex:330: Missing $ inserted.
 <inserted text> 
                 $
-l.322 俨_
+l.330 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:322: Missing { inserted.
+./Contents/chap2.tex:330: Missing { inserted.
 <to be read again> 
                    _
-l.322 俨__
+l.330 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:322: Double subscript.
-l.322 俨__,_
+./Contents/chap2.tex:330: Double subscript.
+l.330 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:324: Missing $ inserted.
+./Contents/chap2.tex:332: Missing $ inserted.
 <inserted text> 
                 $
-l.324 
+l.332 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:324: Missing } inserted.
+./Contents/chap2.tex:332: Missing } inserted.
 <inserted text> 
                 }
-l.324 
+l.332 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1233,10 +1233,10 @@ Missing character: There is no （ in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no 当 in font [lmroman7-regular]:mapping=tex-text;!
 [29]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [30] [31]
-Underfull \vbox (badness 6300) has occurred while \output is active []
 
- [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30] [31] [32]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 ) [33]
 \openout2 = `Contents/chap3.aux'.
@@ -2682,10 +2682,10 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 ### simple group (level 1) entered at line 288 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15769 strings out of 492970
- 434103 string characters out of 6133939
+ 15743 strings out of 492970
+ 432297 string characters out of 6133939
  474880 words of memory out of 5000000
- 19630 multiletter control sequences out of 15000+600000
+ 19604 multiletter control sequences out of 15000+600000
  536971 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  53i,8n,67p,10452b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
