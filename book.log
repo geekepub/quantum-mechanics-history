@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  16 APR 2019 21:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  16 APR 2019 22:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1158,45 +1158,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 第二章
 [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [26] [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-./Contents/chap2.tex:330: Missing $ inserted.
+ [26] [27] [28] [29]
+./Contents/chap2.tex:344: Missing $ inserted.
 <inserted text> 
                 $
-l.330 俨_
+l.344 俨_
         _,_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:330: Missing { inserted.
+./Contents/chap2.tex:344: Missing { inserted.
 <to be read again> 
                    _
-l.330 俨__
+l.344 俨__
          ,_
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap2.tex:330: Double subscript.
-l.330 俨__,_
+./Contents/chap2.tex:344: Double subscript.
+l.344 俨__,_
            
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap2.tex:332: Missing $ inserted.
+./Contents/chap2.tex:346: Missing $ inserted.
 <inserted text> 
                 $
-l.332 
+l.346 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap2.tex:332: Missing } inserted.
+./Contents/chap2.tex:346: Missing } inserted.
 <inserted text> 
                 }
-l.332 
+l.346 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1231,12 +1228,9 @@ Missing character: There is no 越 in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no 低 in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no （ in font [lmroman7-regular]:mapping=tex-text;!
 Missing character: There is no 当 in font [lmroman7-regular]:mapping=tex-text;!
-[29]
+[30]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30] [31] [32]
+ [31] [32]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 ) [33]
 \openout2 = `Contents/chap3.aux'.
