@@ -36,14 +36,14 @@
 \contentsline {section}{\numberline {3.4}我们为什么看不见德布罗意波}{37}
 \contentsline {section}{\numberline {3.5}物质波被发现了}{38}
 \contentsline {section}{\numberline {3.6}具有双重属性的粒子}{40}
-\contentsline {section}{\numberline {3.7}导波}{40}
+\contentsline {section}{\numberline {3.7}导波}{41}
 \contentsline {section}{\numberline {3.8}衍射一一一是群体还是个体的现象}{42}
 \contentsline {section}{\numberline {3.9}访问靶场}{43}
 \contentsline {section}{\numberline {3.10}几率波}{44}
 \contentsline {section}{\numberline {3.11}几率进入物理学}{45}
 \contentsline {section}{\numberline {3.12}谨慎的预言}{46}
 \contentsline {section}{\numberline {3.13}5),在此领域内，波函数平方不再是几率密度，因而原则上可能同时精确漪定粒子的位置和动愤。参看周世勋著«觅子力学动仔404页。--译者注}{47}
-\contentsline {section}{\numberline {3.14}粒子波和波粒子}{47}
+\contentsline {section}{\numberline {3.14}粒子波和波粒子}{48}
 \contentsline {section}{\numberline {3.15}探讨波定律}{48}
 \contentsline {section}{\numberline {3.16}轮到测量仪器了}{50}
 \contentsline {section}{\numberline {3.17}过错在仪器还在电子}{53}
