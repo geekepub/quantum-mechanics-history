@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  24 APR 2019 21:21
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  25 APR 2019 22:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1167,9 +1167,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 
 
 
-] [36] [37]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [38]
+] [36] [37] [38]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
@@ -1194,15 +1192,8 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
  [44]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [45]
+ [45] [46]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [46]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Overfull \hbox (336.19102pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10.53937 3.13 5), \TU/STSong(0)/m/it/10.53937 在 此 领 域 内，|  波 函 数 平 方 不 再 是 几 率 密 度，|  因 而 原 则 上 可 能 同 时 精 确 漪 定 粒 子 的 位 置 和 动 愤。|  参 看 周 世 勋 著 \TU/lmr/m/sl/10.53937 « \TU/STSong(0)/m/it/10.53937 觅 子 力 学 动 仔 \TU/lmr/m/sl/10.53937 404 \TU/STSong(0)/m/it/10.53937 页。| \TU/lmr/m/sl/10.53937 –\TU/STSong(0)/m/it/10.53937 译 者 注 \TU/lmr/m/n/10.53937 47
@@ -1211,18 +1202,18 @@ Overfull \hbox (336.19102pt too wide) has occurred while \output is active
 [47]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-./Contents/chap3.tex:290: Missing $ inserted.
+./Contents/chap3.tex:279: Missing $ inserted.
 <inserted text> 
                 $
-l.290 _
+l.279 _
        .80急
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:293: Missing $ inserted.
+./Contents/chap3.tex:282: Missing $ inserted.
 <inserted text> 
                 $
-l.293 
+l.282 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1318,81 +1309,81 @@ Missing character: There is no 清 in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no 楚 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
-./Contents/chap3.tex:302: Missing $ inserted.
+./Contents/chap3.tex:291: Missing $ inserted.
 <inserted text> 
                 $
-l.302 _
+l.291 _
        _____,_--
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:302: Missing { inserted.
+./Contents/chap3.tex:291: Missing { inserted.
 <to be read again> 
                    _
-l.302 __
+l.291 __
         ____,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:302: Missing { inserted.
+./Contents/chap3.tex:291: Missing { inserted.
 <to be read again> 
                    _
-l.302 ___
+l.291 ___
          ___,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:302: Missing { inserted.
+./Contents/chap3.tex:291: Missing { inserted.
 <to be read again> 
                    _
-l.302 ____
+l.291 ____
           __,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:302: Missing { inserted.
+./Contents/chap3.tex:291: Missing { inserted.
 <to be read again> 
                    _
-l.302 _____
+l.291 _____
            _,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:302: Missing { inserted.
+./Contents/chap3.tex:291: Missing { inserted.
 <to be read again> 
                    _
-l.302 ______
+l.291 ______
             ,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:302: Double subscript.
-l.302 ______,_
+./Contents/chap3.tex:291: Double subscript.
+l.291 ______,_
               --
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap3.tex:306: Missing $ inserted.
+./Contents/chap3.tex:295: Missing $ inserted.
 <inserted text> 
                 $
-l.306 
+l.295 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:306: Missing } inserted.
+./Contents/chap3.tex:295: Missing } inserted.
 <inserted text> 
                 }
-l.306 
+l.295 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1400,10 +1391,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:306: Missing } inserted.
+./Contents/chap3.tex:295: Missing } inserted.
 <inserted text> 
                 }
-l.306 
+l.295 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1411,10 +1402,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:306: Missing } inserted.
+./Contents/chap3.tex:295: Missing } inserted.
 <inserted text> 
                 }
-l.306 
+l.295 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1422,10 +1413,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:306: Missing } inserted.
+./Contents/chap3.tex:295: Missing } inserted.
 <inserted text> 
                 }
-l.306 
+l.295 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1433,10 +1424,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:306: Missing } inserted.
+./Contents/chap3.tex:295: Missing } inserted.
 <inserted text> 
                 }
-l.306 
+l.295 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1491,18 +1482,18 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
  [50]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-./Contents/chap3.tex:353: Missing $ inserted.
+./Contents/chap3.tex:342: Missing $ inserted.
 <inserted text> 
                 $
-l.353 l=f!_
+l.342 l=f!_
            mv
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:354: Missing $ inserted.
+./Contents/chap3.tex:343: Missing $ inserted.
 <inserted text> 
                 $
-l.354 
+l.343 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1514,84 +1505,14 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [52]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [53]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-./Contents/chap3.tex:449: Missing $ inserted.
-<inserted text> 
-                $
-l.449 •_
-        93•
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Contents/chap3.tex:452: Missing $ inserted.
-<inserted text> 
-                $
-l.452 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 任 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 何 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 确 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 置 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 找 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 到 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 它 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 企 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 图 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 都 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 将 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 失 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 败 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 另 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 面 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 电 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 子 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 运 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 动 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 越 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 快 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 它 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 便 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 越 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 准 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 确 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 地 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 被 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 波 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 但 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 即 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 使 in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
-[54]
+ [54]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [55]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1609,32 +1530,32 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
  [59]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-./Contents/chap3.tex:584: Missing $ inserted.
+./Contents/chap3.tex:561: Missing $ inserted.
 <inserted text> 
                 $
-l.584 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.561 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <15.05624> on input line 584.
+(Font)              <15.05624> on input line 561.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.03374> on input line 584.
-./Contents/chap3.tex:584: Missing { inserted.
+(Font)              <9.03374> on input line 561.
+./Contents/chap3.tex:561: Missing { inserted.
 <to be read again> 
                    _
-l.584 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.561 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:584: Missing $ inserted.
+./Contents/chap3.tex:561: Missing $ inserted.
 <inserted text> 
                 $
-l.584 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.561 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1642,10 +1563,10 @@ you left one out. Proceed, with fingers crossed.
 Missing character: There is no 译 in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 者 in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 注 in font [lmroman12-regular]:mapping=tex-text;!
-./Contents/chap3.tex:584: Missing } inserted.
+./Contents/chap3.tex:561: Missing } inserted.
 <inserted text> 
                 }
-l.584 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.561 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
