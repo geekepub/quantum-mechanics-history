@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  25 APR 2019 22:46
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  25 APR 2019 22:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1579,39 +1579,36 @@ my insertion and my current dilemma will both disappear.
 
  (./Contents/chap4.tex
 第四章
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 [61
 
 
 
 ]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [62]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 2318) has occurred while \output is active []
+
  [63]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [64]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 2512) has occurred while \output is active []
+Underfull \vbox (badness 1946) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [66]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [67]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-
-./Contents/chap4.tex:174: You can't use `macro parameter character #' in horizontal mode.
+./Contents/chap4.tex:146: You can't use `macro parameter character #' in horizontal mode.
 <recently read> ##
                   
-l.174 由于它们不能独立做到这点，因而经常如饥似渴地寻找#
+l.146 由于它们不能独立做到这点，因而经常如饥似渴地寻找#
                                侣结果便造成了化学家所说的反应。真的，那是一种自找牺牲：一个原子把自己的衣裳全都献给了另一...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1643,7 +1640,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [73]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 4168) has occurred while \output is active []
 
@@ -1659,14 +1655,10 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
  [76]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
- [78]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+ [77] [78]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1674,13 +1666,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [79]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 2573) has occurred while \output is active []
+
  [80]
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [81]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-) [82] [83]
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82] [83]
 \openout2 = `Contents/chap5.aux'.
 
  (./Contents/chap5.tex [84
