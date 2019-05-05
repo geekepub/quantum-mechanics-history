@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  5 MAY 2019 21:57
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.2)  5 MAY 2019 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1170,16 +1170,17 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
 ] [36] [37]
 Missing character: There is no 厘 in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 米 in font [lmroman10-regular]:mapping=tex-text;!
- [38] [39]
-Underfull \vbox (badness 4378) has occurred while \output is active []
-
- [40] [41]
+Missing character: There is no 厘 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 米 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 厘 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 米 in font [lmroman10-regular]:mapping=tex-text;!
+ [38] [39] [40] [41]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [42]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [43]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [44] [45] [46]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1189,81 +1190,81 @@ Overfull \hbox (336.19102pt too wide) has occurred while \output is active
  []
 
 [47]
-./Contents/chap3.tex:277: Missing $ inserted.
+./Contents/chap3.tex:276: Missing $ inserted.
 <inserted text> 
                 $
-l.277 _
+l.276 _
        _____,_--
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:277: Missing { inserted.
+./Contents/chap3.tex:276: Missing { inserted.
 <to be read again> 
                    _
-l.277 __
+l.276 __
         ____,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:277: Missing { inserted.
+./Contents/chap3.tex:276: Missing { inserted.
 <to be read again> 
                    _
-l.277 ___
+l.276 ___
          ___,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:277: Missing { inserted.
+./Contents/chap3.tex:276: Missing { inserted.
 <to be read again> 
                    _
-l.277 ____
+l.276 ____
           __,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:277: Missing { inserted.
+./Contents/chap3.tex:276: Missing { inserted.
 <to be read again> 
                    _
-l.277 _____
+l.276 _____
            _,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:277: Missing { inserted.
+./Contents/chap3.tex:276: Missing { inserted.
 <to be read again> 
                    _
-l.277 ______
+l.276 ______
             ,_--
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:277: Double subscript.
-l.277 ______,_
+./Contents/chap3.tex:276: Double subscript.
+l.276 ______,_
               --
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Contents/chap3.tex:281: Missing $ inserted.
+./Contents/chap3.tex:280: Missing $ inserted.
 <inserted text> 
                 $
-l.281 
+l.280 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:281: Missing } inserted.
+./Contents/chap3.tex:280: Missing } inserted.
 <inserted text> 
                 }
-l.281 
+l.280 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1271,10 +1272,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:281: Missing } inserted.
+./Contents/chap3.tex:280: Missing } inserted.
 <inserted text> 
                 }
-l.281 
+l.280 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1282,10 +1283,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:281: Missing } inserted.
+./Contents/chap3.tex:280: Missing } inserted.
 <inserted text> 
                 }
-l.281 
+l.280 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1293,10 +1294,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:281: Missing } inserted.
+./Contents/chap3.tex:280: Missing } inserted.
 <inserted text> 
                 }
-l.281 
+l.280 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1304,10 +1305,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./Contents/chap3.tex:281: Missing } inserted.
+./Contents/chap3.tex:280: Missing } inserted.
 <inserted text> 
                 }
-l.281 
+l.280 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1356,18 +1357,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [49]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-./Contents/chap3.tex:314: Missing $ inserted.
+./Contents/chap3.tex:313: Missing $ inserted.
 <inserted text> 
                 $
-l.314 l=f!_
+l.313 l=f!_
            mv
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Contents/chap3.tex:315: Missing $ inserted.
+./Contents/chap3.tex:314: Missing $ inserted.
 <inserted text> 
                 $
-l.315 
+l.314 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1378,7 +1379,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [51]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
  [52]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1388,7 +1389,7 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
  [54]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [55]
-Underfull \vbox (badness 2134) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [56]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
@@ -1397,32 +1398,32 @@ Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;
  [58]
 Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
  [59]
-./Contents/chap3.tex:510: Missing $ inserted.
+./Contents/chap3.tex:509: Missing $ inserted.
 <inserted text> 
                 $
-l.510 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.509 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <15.05624> on input line 510.
+(Font)              <15.05624> on input line 509.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.03374> on input line 510.
-./Contents/chap3.tex:510: Missing { inserted.
+(Font)              <9.03374> on input line 509.
+./Contents/chap3.tex:509: Missing { inserted.
 <to be read again> 
                    _
-l.510 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.509 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./Contents/chap3.tex:510: Missing $ inserted.
+./Contents/chap3.tex:509: Missing $ inserted.
 <inserted text> 
                 $
-l.510 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.509 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1430,10 +1431,10 @@ you left one out. Proceed, with fingers crossed.
 Missing character: There is no 译 in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 者 in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 注 in font [lmroman12-regular]:mapping=tex-text;!
-./Contents/chap3.tex:510: Missing } inserted.
+./Contents/chap3.tex:509: Missing } inserted.
 <inserted text> 
                 }
-l.510 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
+l.509 ...)J后者要较普朗克笸子假设的提出晚25年，参看\section{7。__:译者注}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
