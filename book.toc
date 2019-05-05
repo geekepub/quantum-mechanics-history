@@ -34,10 +34,10 @@
 \contentsline {section}{\numberline {3.2}谈谈通常的波}{35}
 \contentsline {section}{\numberline {3.3}让我们认识一下物质波}{36}
 \contentsline {section}{\numberline {3.4}我们为什么看不见德布罗意波}{37}
-\contentsline {section}{\numberline {3.5}物质波被发现了}{38}
+\contentsline {section}{\numberline {3.5}物质波被发现了}{39}
 \contentsline {section}{\numberline {3.6}具有双重属性的粒子}{40}
 \contentsline {section}{\numberline {3.7}导波}{41}
-\contentsline {section}{\numberline {3.8}衍射一一一是群体还是个体的现象}{42}
+\contentsline {section}{\numberline {3.8}衍射——是群体还是个体的现象}{42}
 \contentsline {section}{\numberline {3.9}访问靶场}{43}
 \contentsline {section}{\numberline {3.10}几率波}{44}
 \contentsline {section}{\numberline {3.11}几率进入物理学}{45}
